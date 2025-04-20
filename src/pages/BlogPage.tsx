@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const BlogSection: React.FC = () => {
   return (
     <section className="flex items-center justify-center min-h-screen bg-gray-900">
